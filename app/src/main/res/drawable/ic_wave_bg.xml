@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="1440"
+    android:viewportHeight="690">
+
+    <path
+        android:pathData="M 0,700 C 0,700 0,233 0,233 C 100.64114832535887,194.6267942583732 201.28229665071774,156.25358851674642 290,146 C 378.71770334928226,135.74641148325358 455.51196172248797,153.61244019138755 545,186 C 634.488038277512,218.38755980861245 736.6698564593302,265.29665071770336 834,278 C 931.3301435406698,290.70334928229664 1023.8086124401914,269.20095693779905 1124,256 C 1224.1913875598086,242.79904306220095 1332.0956937799042,237.89952153110048 1440,233 C 1440,233 1440,700 1440,700 Z"
+        android:fillColor="#ffffff"
+        android:fillAlpha="1"
+        android:strokeColor="#ffffff"
+        android:strokeWidth="6"
+        android:rotation="180"
+        android:rotationX="720"
+        android:rotationY="350" />
+
+    <!-- Add more paths if you have multiple parts in your SVG -->
+
+</vector>
